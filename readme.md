@@ -4,4 +4,4 @@
 2. Run: **gulp**
 
 # Preview
-https://hubytskyi.github.io/ait-test/app/
+https://hubytskyi.github.io/AIT-Test/app/
